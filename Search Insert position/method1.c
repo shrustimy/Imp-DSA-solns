@@ -1,4 +1,5 @@
-// Time taken to execute 4ms
+//My accepted solution - runtime 4ms and memory usage 6.2MB
+
 int searchInsert(int* nums, int numsSize, int target){
     int l=0,r=numsSize-1,mid,cnt;
     while(l<=r)  //Binary search iterative method
