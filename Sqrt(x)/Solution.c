@@ -1,3 +1,5 @@
+//My accepted solution - runtime 0ms and memory usage 5.5MB
+
 int mySqrt(int x){
     long long l=0,r=x,mid;
     while(r>=l) //Binary search iterative method
