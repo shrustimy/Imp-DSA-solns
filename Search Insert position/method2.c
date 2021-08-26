@@ -1,3 +1,6 @@
+//My accepted solution - runtime 4ms and memory usage 6.2MB
+// without using binary search
+
 int searchInsert(int* nums, int numsSize, int target){
    int cnt=0;
     
