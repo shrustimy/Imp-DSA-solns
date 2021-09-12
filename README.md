@@ -6,3 +6,4 @@
 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)|Easy| [Solution(C)](../main/Sqrt(x)/)
 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|Easy|<a href="../main/Maximum Ascending Subarray Sum/">Solution(Cpp)</a>
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Easy|<a href="../main/Maximum Subarray/">Solution(Cpp)</a>
+| [Two Sum](https://leetcode.com/problems/two-sum/)|Easy|<a href="../main/Two Sum/">Solution(Cpp)</a>
