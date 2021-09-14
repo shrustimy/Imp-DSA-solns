@@ -9,5 +9,7 @@
 | [Two Sum](https://leetcode.com/problems/two-sum/)|Easy|<a href="../main/Two Sum/">Solution(Cpp)</a>
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|Easy|<a href="../main/Merge Sorted Array/">Solution(Cpp)</a>
 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Easy|<a href="../main/Intersection of Two Arrays II/">Solution(Cpp)</a>
+| [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|Easy|<a href="../main/Reshape the Matrix/">Solution(Cpp)</a>
+| [Sort Colors](https://leetcode.com/problems/sort-colors/)|Medium|<a href="../main/Sort Colors/">Solution(Cpp)</a>
 
 <!-- | []()| |<a href="../main/ /">Solution(Cpp)</a> -->
