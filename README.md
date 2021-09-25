@@ -16,7 +16,7 @@
 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|Easy|<a href="../main/Third Maximum Number/">Solution(Cpp)</a>
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|<a href="../main/Contains Duplicate/">Solution(Cpp)</a>
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|<a href="../main/Remove Duplicates from Sorted Array/">Solution(Cpp)</a>
-| [Missing Number](https://leetcode.com/problems/missing-number/)|Easy|<a href="../main/Missing Number/">Solution(Cpp)</a>
+| [Missing Number](https://leetcode.com/problems/missing-number/)|Easy|<a href="../main/Missing number/">Solution(Cpp)</a>
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Easy|<a href="../main/Valid Parentheses/">Solution(Cpp)</a>
 | [Sort Colors](https://leetcode.com/problems/sort-colors/)|Medium|<a href="../main/Sort Colors/">Solution(Cpp)</a>
 | [Rotate Array](https://leetcode.com/problems/rotate-array/)|Medium|<a href="../main/Rotate Array/">Solution(Cpp)</a>
