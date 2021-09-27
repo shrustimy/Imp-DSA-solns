@@ -18,6 +18,7 @@
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|<a href="../main/Remove Duplicates from Sorted Array/">Solution(Cpp)</a>
 | [Missing Number](https://leetcode.com/problems/missing-number/)|Easy|<a href="../main/Missing number/">Solution(Cpp)</a>
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Easy|<a href="../main/Valid Parentheses/">Solution(Cpp)</a>
+| [Plus One](https://leetcode.com/problems/plus-one/)|Easy|<a href="../main/Plus One/">Solution(Cpp)</a>
 | [Sort Colors](https://leetcode.com/problems/sort-colors/)|Medium|<a href="../main/Sort Colors/">Solution(Cpp)</a>
 | [Rotate Array](https://leetcode.com/problems/rotate-array/)|Medium|<a href="../main/Rotate Array/">Solution(Cpp)</a>
 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|Medium|<a href="../main/Maximum Product Subarray/">Solution(Cpp)</a>
