@@ -1,3 +1,5 @@
+//using lower_bound and upper_bound
+
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
