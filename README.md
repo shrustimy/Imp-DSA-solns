@@ -27,4 +27,5 @@
 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)|Medium|<a href="../main/Majority Element II/">Solution(Cpp)</a>
 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Medium|<a href="../main/Longest Consecutive Sequence/">Solution(Cpp)</a>
 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|Medium|<a href="../main/Find First and Last Position of Element in Sorted Array/">Solution(Cpp)</a>
+| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Medium|<a href="../main/Find Duplicate Number/">Solution(Cpp)</a>
 <!-- | []()| |<a href="../main/ /">Solution(Cpp)</a> -->
