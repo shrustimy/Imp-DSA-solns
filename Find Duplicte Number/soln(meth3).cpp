@@ -1,3 +1,5 @@
+// But this method modifies the array
+
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
