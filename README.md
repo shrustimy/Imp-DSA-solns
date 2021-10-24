@@ -21,6 +21,7 @@
 | [Plus One](https://leetcode.com/problems/plus-one/)|Easy|<a href="../main/Plus One/">Solution(Cpp)</a>
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|<a href="../main/Valid Anagram/">Solution(Cpp)</a>
 | [Single Number](https://leetcode.com/problems/single-number/)|Easy|<a href="../main/Single Number/">Solution(Cpp)</a>
+| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|Easy|<a href="../main/Pascal's Triangle/">Solution(Cpp)</a>
 | [Sort Colors](https://leetcode.com/problems/sort-colors/)|Medium|<a href="../main/Sort Colors/">Solution(Cpp)</a>
 | [Rotate Array](https://leetcode.com/problems/rotate-array/)|Medium|<a href="../main/Rotate Array/">Solution(Cpp)</a>
 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|Medium|<a href="../main/Maximum Product Subarray/">Solution(Cpp)</a>
