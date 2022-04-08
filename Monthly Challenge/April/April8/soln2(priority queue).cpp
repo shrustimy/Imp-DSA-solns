@@ -1,8 +1,7 @@
-#include<algorithm>
-priority_queue<int,vector<int>,greater<int>> pq;
-int si;
 class KthLargest {
 public:
+    priority_queue<int,vector<int>,greater<int>> pq;
+    int si;
     KthLargest(int k, vector<int>& nums) {
         si=k;
         for(int i=0;i<nums.size();i++)
