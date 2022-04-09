@@ -32,15 +32,15 @@ public:
         vector<int> ans;
         unordered_map<int,int> mp;
         priority_queue<pair<int,int>> pq;
-        for(int i=0;i<nums.size();i++)
+        for(auto num:nums)
         {
-            mp[nums[i]]++;
+            mp[num]++;
         }
-        for(auto ii=mp.begin();ii!=mp.end();ii++)
+        for(auto ii:mp)
         {
-            pq.push(make_pair(ii->second,ii->first));
+            pq.push({ii.second,ii.first});
         }
-        for(int i=0;i<k;i++)
+        while(k--)
         {
             ans.push_back(pq.top().second);
             pq.pop();
