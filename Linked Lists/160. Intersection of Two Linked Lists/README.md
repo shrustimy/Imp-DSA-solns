@@ -62,7 +62,7 @@ Constraints:
 
 - The number of nodes of listA is in the m.
 - The number of nodes of listB is in the n.
-- 1 <= m, n <= 3 * $10^4$
+- 1 <= m, n <= 3 * $\10^4$
 - 1 <= Node.val <= 105
 - 0 <= skipA < m
 - 0 <= skipB < n
