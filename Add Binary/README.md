@@ -1,5 +1,6 @@
 # 67. Add Binary
 
+
 Given two binary strings `a` and `b`, return <i>their</i> sum as a binary string.
 
 Example 1:
