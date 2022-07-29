@@ -1,3 +1,4 @@
+// O(n) time complexity    Space Complexity: O(1)
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
