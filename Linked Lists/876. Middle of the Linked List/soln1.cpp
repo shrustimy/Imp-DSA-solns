@@ -1,3 +1,5 @@
+// Runtime 0 ms , faster than 100.00% of C++ online submissions for Middle of the Linked List  
+
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
@@ -8,7 +10,7 @@ public:
             cnt++;
             temp=temp->next;
         }
-        int mid=(cnt/2);
+        cnt=cnt/2;
         temp=head;
         for(int i=0;i<mid;i++)
         {
