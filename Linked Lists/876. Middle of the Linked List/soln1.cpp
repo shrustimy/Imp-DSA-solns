@@ -1,8 +1,6 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        if(head==NULL || head->next==NULL)
-            return head;
         ListNode* temp=head;
         int cnt=0;
         while(temp!=NULL)
@@ -11,10 +9,11 @@ public:
             temp=temp->next;
         }
         int mid=(cnt/2);
+        temp=head;
         for(int i=0;i<mid;i++)
         {
-            head=head->next;
+            temp=temp->next;
         }
-        return head;
+        return temp;
     }
 };
