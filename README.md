@@ -1,5 +1,5 @@
 # LeetCode-Solutions(C/C++)
-### Contains solutions for LeetCode questions.
+### Contains solutions for important problems from platforms like LeetCode , interview bit , Code Studio.
 | Problem             |Difficulty|Accepted Solutions                                                                
 | ----------------- | ------------------------------------------------------------------ |------------|
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) |Easy| <a href="../main/Search Insert position/">Solution(C)</a>
